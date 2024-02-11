@@ -1,0 +1,22 @@
+{
+  "name": "learningpackage_first",
+  "version": "1.0.0",
+  "description": "Just learning to publish my own packages on npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theoutrace/theoutrace-package-test.git"
+  },
+  "keywords": [
+    "prakash"
+  ],
+  "author": "Prakash kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theoutrace/theoutrace-package-test/issues"
+  },
+  "homepage": "https://github.com/Theoutrace/theoutrace-package-test#readme"
+}
